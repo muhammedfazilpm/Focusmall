@@ -1,0 +1,54 @@
+.collapse{
+ margin-left: 1px;
+}
+.navbar-brand{
+    margin-left: 100px;
+}
+.logo1{
+    height: .5cm;
+}
+.collapse{
+   padding-left: 5cm;
+   padding-right: 1cm;
+    
+}
+.img2{
+    max-width: 100%;
+    height:auto;
+}
+.imageletter{
+    display: flex;
+}
+.textbox{
+    max-width:50%;
+   height:auto;
+  
+   
+}
+.zoom {
+    transition: transform .5s;
+  }
+  
+  .zoom:hover {
+    transform: scale(1.1);
+  }
+  .our{
+    text-align: center;
+    color: rgb(126, 126, 116);
+    
+  }
+  .botom{
+    max-width: 100%;
+    height: 2000px
+    
+  }
+  
+  .footer{
+    max-width: 100%;
+    background-color: black;
+    color: aliceblue;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    height: 300px;
+    padding-top: 80px;
+  }
